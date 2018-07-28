@@ -34,7 +34,9 @@ public class Hello {
         for (short i = 0; i < times; i++) {
             printer.println(HELLO);
    
-System.out.println("hi"     }
+System.out.println("hi" )
+System.out.println("hello" )
+    }
     }
 
 }
