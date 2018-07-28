@@ -1,4 +1,4 @@
-package com.example.javamavenjunithelloworld;
+﻿package com.example.javamavenjunithelloworld;
 
 import java.io.PrintStream;
 
@@ -33,7 +33,8 @@ public class Hello {
     public void sayHello(PrintStream printer) {
         for (short i = 0; i < times; i++) {
             printer.println(HELLO);
-        }
+   
+System.out.println("hi"     }
     }
 
 }
